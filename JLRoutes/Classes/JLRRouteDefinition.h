@@ -11,8 +11,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "JLRRouteRequest.h"
-#import "JLRRouteResponse.h"
+
+@class JLRRouteRequest, JLRRouteResponse;
 
 NS_ASSUME_NONNULL_BEGIN
 
